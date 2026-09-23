@@ -1,6 +1,7 @@
+
 <!-- ===== HERO BANNER ===== -->
 <div align="center">
-  <img width="200" style="border-radius: 50%;" src="https://raw.githubusercontent.com/a3m-ed/a3m-ed/main/banner.jpg" alt="Ahmed adel AL-Badaani" />
+  <img width="100%" src="https://raw.githubusercontent.com/a3m-ed/a3m-ed/main/dark.svg" alt="Ahmed Adel Terminal Banner" />
 </div>
 
 <br/>
