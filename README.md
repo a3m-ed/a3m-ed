@@ -4,12 +4,10 @@
 <div align="center">
   <table border="0" style="border: none; border-collapse: collapse; background: transparent;">
     <tr style="border: none; background: transparent;">
-      <!-- عمود الصورة الشخصية -->
-      <td width="35%" align="center" valign="middle" style="border: none; padding: 10px; background: transparent;">
+      <td width="38%" align="center" valign="middle" style="border: none; padding: 5px; background: transparent;">
         <img src="https://raw.githubusercontent.com/a3m-ed/a3m-ed/main/banner.jpg" width="100%" style="border-radius: 12px; border: 2px solid #22D3EE; box-shadow: 0 0 15px rgba(34, 211, 238, 0.4);" alt="Ahmed Adel" />
       </td>
-      <!-- عمود لوحة المعلومات التقنية -->
-      <td width="65%" align="center" valign="middle" style="border: none; padding: 10px; background: transparent;">
+      <td width="62%" align="center" valign="middle" style="border: none; padding: 5px; background: transparent;">
         <img src="https://raw.githubusercontent.com/a3m-ed/a3m-ed/main/dark.svg" width="100%" alt="System Info" />
       </td>
     </tr>
