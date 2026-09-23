@@ -1,6 +1,6 @@
 <!-- ===== HERO BANNER ===== -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/a3m-ed/a3m-ed/main/banner.jpg" alt="Ahmed adel AL-Badaani" />
+  <img width="200" style="border-radius: 50%;" src="https://raw.githubusercontent.com/a3m-ed/a3m-ed/main/banner.jpg" alt="Ahmed adel AL-Badaani" />
 </div>
 
 <br/>
@@ -62,6 +62,10 @@
 
 <!-- ===== CONNECT & SOCIAL BADGES ===== -->
 <div align="center">
+  <a href="https://www.linkedin.com/in/ahmed-adel-b54794376" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0A101F" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/4d_zn/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
   </a>
