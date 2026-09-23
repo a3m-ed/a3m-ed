@@ -1,11 +1,22 @@
 
 <!-- ===== HERO BANNER ===== -->
+<!-- ===== HERO BANNER ===== -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/a3m-ed/a3m-ed/main/dark.svg" alt="Ahmed Adel Terminal Banner" />
+  <table border="0" style="border: none; border-collapse: collapse; background: transparent;">
+    <tr style="border: none; background: transparent;">
+      <!-- عمود الصورة الشخصية -->
+      <td width="35%" align="center" valign="middle" style="border: none; padding: 10px; background: transparent;">
+        <img src="https://raw.githubusercontent.com/a3m-ed/a3m-ed/main/banner.jpg" width="100%" style="border-radius: 12px; border: 2px solid #22D3EE; box-shadow: 0 0 15px rgba(34, 211, 238, 0.4);" alt="Ahmed Adel" />
+      </td>
+      <!-- عمود لوحة المعلومات التقنية -->
+      <td width="65%" align="center" valign="middle" style="border: none; padding: 10px; background: transparent;">
+        <img src="https://raw.githubusercontent.com/a3m-ed/a3m-ed/main/dark.svg" width="100%" alt="System Info" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
-
 <!-- ===== DYNAMIC TYPING HEADER ===== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
